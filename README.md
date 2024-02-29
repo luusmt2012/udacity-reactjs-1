@@ -3,6 +3,6 @@ This is a bookshelf app that allows you to select and categorize books you have 
 
 requirements: NodeJS v16
 
-Step run:
-1, npm i
-2, npm start
+### Step run:
+# 1, npm i
+# 2, npm start
